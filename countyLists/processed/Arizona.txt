@@ -1,0 +1,15 @@
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Apache_County,_Arizona
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Cochise_County,_Arizona
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Coconino_County,_Arizona
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Gila_County,_Arizona
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Graham_County,_Arizona
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Greenlee_County,_Arizona
+https://api.wikimedia.org/core/v1/wikipedia/en/page/La_Paz_County,_Arizona
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Maricopa_County,_Arizona
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Mohave_County,_Arizona
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Navajo_County,_Arizona
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Pima_County,_Arizona
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Pinal_County,_Arizona
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Santa_Cruz_County,_Arizona
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Yavapai_County,_Arizona
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Yuma_County,_Arizona

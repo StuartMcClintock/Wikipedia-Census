@@ -1,0 +1,8 @@
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Fairfield_County,_Connecticut
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Hartford_County,_Connecticut
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Litchfield_County,_Connecticut
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Middlesex_County,_Connecticut
+https://api.wikimedia.org/core/v1/wikipedia/en/page/New_Haven_County,_Connecticut
+https://api.wikimedia.org/core/v1/wikipedia/en/page/New_London_County,_Connecticut
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Tolland_County,_Connecticut
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Windham_County,_Connecticut

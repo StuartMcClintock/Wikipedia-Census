@@ -2,6 +2,10 @@
 # https://data.census.gov/table/DECENNIALPL2020.P1?q=Coal%20county,%20Oklahoma
 # https://api.census.gov/data/2019/acs/acs1/examples.html
 # https://api.wikimedia.org/wiki/Core_REST_API/Reference/Pages/Edit_page
+# https://www.census.gov/data/academy/courses/intro-to-the-census-bureau-data-api.html
+from census import Census
+from us import states
+from credentials import *
 
 def getText(dataObj):
     return '''As of the [[2010 United States Census]], there were 5,295 people, 2,350 households, and 1,604 families residing in the county.<ref name="Census-2010-DP-1">United States Census Bureau. [http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/0500000US40029 "DP-1 Profile of General Population and Housing Characteristics: 2010 - 2010 Demographic Profile Data - Coal County, Oklahoma,"] {{Webarchive|url=https://archive.today/20200213023140/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/0500000US40029 |date=February 13, 2020 }} ''American Fact Finder'', Accessed July 5, 2015.</ref> There were 2,810 housing units.<ref name="Census-2010-DP-1"/> The racial makeup of the county was 74.3% [[Race (United States Census)|White]], 0.5% [[Race (United States Census)|Black]] or [[Race (United States Census)|African American]], 16.7% [[Race (United States Census)|Native American]], 0.2% [[Race (United States Census)|Asian]], 0.5% from [[Race (United States Census)|other races]], and 7.8% from two or more races.<ref name="Census-2010-DP-1"/> 2.6% of the population were [[Race (United States Census)|Hispanic]] or [[Race (United States Census)|Latino]] of any race.<ref name="Census-2010-DP-1"/>
@@ -14,3 +18,7 @@ def getText(dataObj):
 
     According to the 2000 census, 94.6% spoke [[English language|English]], 3.0% [[Spanish language|Spanish]], 1.1% [[German language|German]] and 1.1% [[Choctaw language|Choctaw]] as their first language.
     '''
+
+c = Census(CENSUS_KEY)
+c.acs5.get(('NAME', 'B25034_010E'),
+          {'for': 'state:{}'.format(states.MD.fips)})

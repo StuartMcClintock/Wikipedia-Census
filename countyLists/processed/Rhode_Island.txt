@@ -1,0 +1,5 @@
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Bristol_County,_Rhode_Island
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Kent_County,_Rhode_Island
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Newport_County,_Rhode_Island
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Providence_County,_Rhode_Island
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Washington_County,_Rhode_Island

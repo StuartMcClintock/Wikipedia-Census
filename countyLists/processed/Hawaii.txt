@@ -1,0 +1,5 @@
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Hawai%27i_County,_Hawaii
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Honolulu_County_County,_Hawaii
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Kalawao_County,_Hawaii
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Kauai_County,_Hawaii
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Maui_County,_Hawaii

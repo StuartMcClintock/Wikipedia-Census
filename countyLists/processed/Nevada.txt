@@ -1,0 +1,17 @@
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Carson_City_County,_Nevada
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Churchill_County,_Nevada
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Clark_County,_Nevada
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Douglas_County,_Nevada
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Elko_County,_Nevada
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Esmeralda_County,_Nevada
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Eureka_County,_Nevada
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Humboldt_County,_Nevada
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Lander_County,_Nevada
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Lincoln_County,_Nevada
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Lyon_County,_Nevada
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Mineral_County,_Nevada
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Nye_County,_Nevada
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Pershing_County,_Nevada
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Storey_County,_Nevada
+https://api.wikimedia.org/core/v1/wikipedia/en/page/Washoe_County,_Nevada
+https://api.wikimedia.org/core/v1/wikipedia/en/page/White_Pine_County,_Nevada
